@@ -4,20 +4,33 @@ A responsive clone of Udemy.com built with HTML, CSS, and Bootstrap. This projec
 
 🛠 Features
 Fully responsive navigation bar with multi-level dropdown menus:
+
 Development, Business, Finance & Accounting, IT & Software, Office Productivity, Personal Development, Design, Marketing, Health & Fitness, Music
+
 Search bar with hover effects.
+
 Interactive icons for cart, notifications, and wishlist.
+
 Multiple sections showcasing courses:
+
 Recommended courses
+
 Learners are viewing
+
 Short and sweet courses
+
 Overlay subscription banner with call-to-action button.
+
 Clean, modern design using Bootstrap 5 and CSS grid for layout.
+
 Hover effects and styling for links, icons, and buttons.
+
 
 💻 Built With
 HTML
+
 CSS
+
 Bootstrap
 
 
@@ -56,9 +69,13 @@ Grid layout for recommended courses
 ⚙️ Usage
 
 Hover over the navigation categories to explore submenus.
+
 Use the search bar to simulate course search (static in this clone).
+
 Click the icons (cart, wishlist, notifications) for hover effects.
+
 Explore different sections showcasing courses in a grid layout.
+
 
 📄 File Structure
 udemy-clone/
@@ -69,18 +86,26 @@ udemy-clone/
 └─ README.md        # Project documentation
 
 👩‍💻 Author
+
 Khushi Singh
 
 GitHub: khushi-singh-tech
+
 LinkedIn: Khushi Singh
 
 ⭐ Contributing
 
 Fork the repository.
+
 Create a branch (git checkout -b feature/FeatureName).
+
 Commit your changes (git commit -m 'Add new feature').
+
 Push to the branch (git push origin feature/FeatureName).
+
 Open a Pull Request.
 
+
 📄 License
+
 This project is licensed under the MIT License.
