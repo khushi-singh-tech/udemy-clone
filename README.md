@@ -1,4 +1,5 @@
 Udemy Clone 🎓
+
 A responsive clone of Udemy.com built with HTML, CSS, and Bootstrap. This project replicates the look and feel of Udemy’s homepage, including the navigation bar, course sections, and interactive dropdown menus.
 
 🛠 Features
