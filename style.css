@@ -1,0 +1,95 @@
+nav {
+    height: 150px;
+    font-weight: 18px;
+}
+.search-box{
+    height: 50px;
+    width: 800px;
+    padding-left: 20px;
+    border: 1px solid black;
+}
+.search-box:hover{
+    background-color: gainsboro;
+}
+.para{
+     display: inline-flex; 
+     margin: 0 10px; 
+     font-weight: 12px; 
+}
+.para a{
+    color: black;
+    text-decoration: none;
+    margin-right: 5px;
+    /* margin-right: 10px; */
+}
+.para a:hover{
+    color: blueviolet;
+}
+.icon{
+     margin-right: 20px;
+}
+a i {
+    color: black;
+}
+a i:hover{
+    color: blueviolet;
+}
+.div2{
+    height: 50px;
+    text-decoration: none;
+}
+.container ul li a:hover{
+    color: blueviolet;
+}
+.box1{
+    margin: 110px;
+    margin-top: 40px;
+    margin-bottom: 0;
+    position:relative;
+}
+.overlay {
+      position: absolute;  /* positions it inside .background */
+      margin: 50px;
+      margin-top: 80px;
+      background-color: white; /* semi-transparent black */
+      color: black;
+      height: 250px;
+      width: 400px;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+.btn{
+    margin-left: 10px;
+    width: 110px;
+    height: 50px;
+}   
+.box2{
+    width: 1200px;
+    height: 80px;
+    background-color: black;
+    border-radius: 10px;
+    margin: 150px;
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 50px;
+
+} 
+.box3{
+    margin-left: 160px;
+    margin-right: 160px;
+    height: 300px;
+    width: 1100px;
+    /* background-color: pink; */
+    display: grid;
+    /* font-size: 25px; */
+    font-weight: bold;
+    gap: 20px;
+    grid-template-columns:  20% 20% 20% 20% 20%; 
+    grid-template-rows:  100%;
+    margin-bottom: 50px; 
+}
+.container-items{
+    /* border: 1px solid black; */
+}
+
